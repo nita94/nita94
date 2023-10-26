@@ -1,6 +1,8 @@
 ### Hey! I'm Nicholas Tan 👋
 
-I'm a software developer with a history in pharmacy and HR/Payroll software consultation and implementation, now navigating the software development realm. L Based in the Houston, TX area, I specialize in web development with a knack for JS, Python, React, and various backend frameworks. On the lookout for exciting opportunities to bring my unique blend of skills to the table!
+I'm a software developer with a history in pharmacy and HR/Payroll software consultation and implementation, now navigating the software development realm.  Currently in the Houston, TX area, I specialize in web development with a knack for JS, Python, React, and various backend frameworks. On the lookout for exciting opportunities to bring my unique blend of skills to the table!
+
+I'm currently working on designing a react-redux Art website for my very own mother. :) After that, I plan to continue building dynamic projects and learning new languages and libraries! Typescript is up next!
 
 #### LANGUAGES
 
